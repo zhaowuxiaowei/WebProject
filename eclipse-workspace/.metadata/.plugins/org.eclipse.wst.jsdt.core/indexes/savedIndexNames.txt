@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/zhangning/Documents/Document/Swift/重要/javawebProject/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4197486307.index
+2061591398.index
+237227420.index
+1169912833.index
+1664737113.index
+2347069646.index

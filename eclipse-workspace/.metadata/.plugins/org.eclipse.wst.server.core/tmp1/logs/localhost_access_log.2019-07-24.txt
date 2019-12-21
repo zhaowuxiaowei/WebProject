@@ -1,0 +1,16 @@
+127.0.0.1 - - [24/Jul/2019:17:25:52 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:17:26:58 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:17:28:23 +0800] "GET /AppPeoject1/HelloServlet1 HTTP/1.1" 200 173
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:17:30:58 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:17:31:11 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:31:16 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:33:20 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 200 68
+127.0.0.1 - - [24/Jul/2019:18:34:58 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:35:00 +0800] "GET /AppPeoject1/ HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:35:59 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 200 68
+127.0.0.1 - - [24/Jul/2019:18:42:15 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:42:15 +0800] "GET /AppPeoject1/ HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:42:24 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 500 1456
+127.0.0.1 - - [24/Jul/2019:18:42:42 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:42:42 +0800] "GET /AppPeoject1/ HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:18:43:02 +0800] "POST /AppPeoject1/HelloServlet1 HTTP/1.1" 500 1456
